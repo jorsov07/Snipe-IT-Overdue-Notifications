@@ -1,2 +1,2 @@
-# Overdue-notifications
-Free to use with snipeitapp.com for e-mail notifications
+# Snipe-IT Overdue Notifications
+Free to use with snipeitapp.com for email notifications about exceeded borrowed items
