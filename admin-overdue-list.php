@@ -62,7 +62,7 @@ $message .= "
 There is in total " . $row_count ." items that are overdue.  To check status of all items, please visit https://hostname.domain.tld.<br><br>
 
 Thank you,<br>
-SR-VALE-PCDB";
+Snipe-IT";
 
 $subject = 'Daily Overdue Loan Report - '. $row_count .' items overdue';
 $to = 'destination@domain.tld';
